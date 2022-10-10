@@ -1,0 +1,28 @@
+body{
+    background-color: #BFCBA8;
+}
+hr{
+    border: 2px #56776C solid;
+}
+h3, h1{
+    color: #464F41;
+}
+h3{
+    font-size: 25px;
+}
+h1{
+    font-size: 35px;
+}
+table{
+    background-color: #4E3620;
+}
+td{
+    border: 3px solid #897853;
+}
+.other{
+    color: #4E3620;
+    font-size: 20px;
+}
+.smth{
+    color: aliceblue;
+}
